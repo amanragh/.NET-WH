@@ -1,0 +1,14 @@
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\UnityContainer_Demo.exe.config
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\UnityContainer_Demo.exe
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\UnityContainer_Demo.pdb
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\obj\Debug\UnityContainer_Demo.csprojAssemblyReference.cache
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\obj\Debug\UnityContainer_Demo.csproj.CoreCompileInputs.cache
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\obj\Debug\UnityContainer_Demo.exe
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\obj\Debug\UnityContainer_Demo.pdb
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\Unity.Abstractions.dll
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\Unity.Container.dll
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\Unity.Abstractions.pdb
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\bin\Debug\Unity.Container.pdb
+C:\repos\UnityContainer_Demo\UnityContainer_Demo\obj\Debug\UnityContainer_Demo.csproj.CopyComplete
