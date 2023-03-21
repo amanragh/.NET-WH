@@ -1,0 +1,7 @@
+C:\repos\DI_Demo\DI_Demo\bin\Debug\DI_Demo.exe.config
+C:\repos\DI_Demo\DI_Demo\bin\Debug\DI_Demo.exe
+C:\repos\DI_Demo\DI_Demo\bin\Debug\DI_Demo.pdb
+C:\repos\DI_Demo\DI_Demo\obj\Debug\DI_Demo.csprojAssemblyReference.cache
+C:\repos\DI_Demo\DI_Demo\obj\Debug\DI_Demo.csproj.CoreCompileInputs.cache
+C:\repos\DI_Demo\DI_Demo\obj\Debug\DI_Demo.exe
+C:\repos\DI_Demo\DI_Demo\obj\Debug\DI_Demo.pdb
