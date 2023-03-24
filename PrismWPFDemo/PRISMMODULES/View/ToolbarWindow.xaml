@@ -1,0 +1,34 @@
+﻿<!--<Window x:Class="PRISMMODULES.View.ToolbarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRISMMODULES.View"
+        mc:Ignorable="d"
+        Title="ToolbarWindow" Height="450" Width="800">
+    <Grid>
+        
+    </Grid>
+</Window>-->
+
+<UserControl  x:Class="PRISMMODULES.View.ToolbarWindow"  
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"  
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"  
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"  
+        xmlns:local="clr-namespace:PRISMMODULES"  
+        xmlns:mods="clr-namespace:PRISMMODULES.ViewModels"  
+        mc:Ignorable="d"        
+        DataContext="{Binding Source= mainViewModelLocator}">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <mods:ToolBarViewModel   x:Key="mainViewModelLocator"></mods:ToolBarViewModel>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <ToolBar Width="200" >
+            <Button Content="Item 1 Test"/>
+            <Button Content="Item 2 Try"/>
+        </ToolBar>
+    </Grid>
+</UserControl>      
