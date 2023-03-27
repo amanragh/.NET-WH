@@ -1,0 +1,12 @@
+C:\repos\MoQDemo\MoQDemo\bin\Debug\MoQDemo.exe.config
+C:\repos\MoQDemo\MoQDemo\bin\Debug\MoQDemo.exe
+C:\repos\MoQDemo\MoQDemo\bin\Debug\MoQDemo.pdb
+C:\repos\MoQDemo\MoQDemo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repos\MoQDemo\MoQDemo\bin\Debug\Moq.dll
+C:\repos\MoQDemo\MoQDemo\bin\Debug\Moq.pdb
+C:\repos\MoQDemo\MoQDemo\bin\Debug\Moq.xml
+C:\repos\MoQDemo\MoQDemo\obj\Debug\MoQDemo.csprojAssemblyReference.cache
+C:\repos\MoQDemo\MoQDemo\obj\Debug\MoQDemo.csproj.CoreCompileInputs.cache
+C:\repos\MoQDemo\MoQDemo\obj\Debug\MoQDemo.csproj.CopyComplete
+C:\repos\MoQDemo\MoQDemo\obj\Debug\MoQDemo.exe
+C:\repos\MoQDemo\MoQDemo\obj\Debug\MoQDemo.pdb
